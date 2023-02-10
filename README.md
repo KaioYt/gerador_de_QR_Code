@@ -1,7 +1,6 @@
 # GERADOR DE QR CODE
 
-## VER SITE:
-https://kaioyt.github.io/qr-code-generator-page/
+## VER SITE: https://kaioyt.github.io/qr-code-generator-page/
 
 ![Sem título](https://user-images.githubusercontent.com/103225660/218186287-b46077e3-33e6-427e-aff1-e454ab9a7bae.jpg)
 </br>
